@@ -1,0 +1,23 @@
+{
+    "IT1": {
+        "name": "balaji",
+        "dept": "IT",
+        "Mark": "99",
+        "Time-To-Live": 50000,
+        "CreatedAt": "2020-12-31T20:55:08.110094"
+    },
+	"IT2": {
+        "name": "raji",
+        "dept": "IT",
+        "Mark": "91",
+        "Time-To-Live": 50000,
+        "CreatedAt": "2020-12-31T20:55:08.110094"
+    },
+	"IT3": {
+        "name": "aji",
+        "dept": "IT",
+        "Mark": "79",
+        "Time-To-Live": 50000,
+        "CreatedAt": "2020-12-29T20:55:08.110094"
+    }
+}
